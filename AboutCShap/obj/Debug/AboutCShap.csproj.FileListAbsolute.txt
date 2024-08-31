@@ -1,0 +1,10 @@
+D:\Temp\AboutCShap\AboutCShap\bin\Debug\AboutCShap.exe.config
+D:\Temp\AboutCShap\AboutCShap\bin\Debug\AboutCShap.exe
+D:\Temp\AboutCShap\AboutCShap\bin\Debug\AboutCShap.pdb
+D:\Temp\AboutCShap\AboutCShap\obj\Debug\AboutCShap.csproj.AssemblyReference.cache
+D:\Temp\AboutCShap\AboutCShap\obj\Debug\AboutCShap.Form1.resources
+D:\Temp\AboutCShap\AboutCShap\obj\Debug\AboutCShap.Properties.Resources.resources
+D:\Temp\AboutCShap\AboutCShap\obj\Debug\AboutCShap.csproj.GenerateResource.cache
+D:\Temp\AboutCShap\AboutCShap\obj\Debug\AboutCShap.csproj.CoreCompileInputs.cache
+D:\Temp\AboutCShap\AboutCShap\obj\Debug\AboutCShap.exe
+D:\Temp\AboutCShap\AboutCShap\obj\Debug\AboutCShap.pdb
